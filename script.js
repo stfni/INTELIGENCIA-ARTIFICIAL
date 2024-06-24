@@ -116,4 +116,3 @@ enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um
         texto: "Isso é maravilhoso!",
         afirmacao: "Quis saber como usar IA no seu dia a dia."
     }
-    
